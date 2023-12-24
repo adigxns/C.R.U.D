@@ -1,0 +1,7 @@
+.table-bordered tbody tr th:hover {
+    background-color: #000000; /* Warna latar belakang saat hover */
+}
+
+.table-bordered tbody tr:hover td {
+    color: #ffffff; /* Warna teks saat hover */
+}
